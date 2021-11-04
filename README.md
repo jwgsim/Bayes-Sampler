@@ -3,7 +3,7 @@ A Bayes Sampler by JWG SIMONS.
 <br />
 
 This repository includes:
-- A pdf file titled "Bayesian Sampler Report". This latex file contains a report which tries to answer whether normative price determinants influenced the price of personal computers in the United States during the 1993 – 1995 period with a Bayesian approach.    
+- A pdf file titled "Bayesian Sampler Report". This pdf contains a report which tries to answer whether normative price determinants influenced the price of personal computers in the United States during the 1993 – 1995 period with a Bayesian approach.    
 - An annotated R file titled "Bayesian Sampler Code". This is an R-code file with which the reader can reproduce the results in the report.  
 - This README file, with instructions on which pieces of code to run to produce the results. 
 
