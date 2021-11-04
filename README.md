@@ -1,4 +1,4 @@
-A Bayes Sampler by JWG SIMONS
+A Bayes Sampler by JWG SIMONS.
 
 <br />
 
