@@ -4,7 +4,7 @@ A Bayes Sampler by JWG SIMONS
 
 This repository includes:
 - A pdf file titled "Bayesian Assignment". This was the final assignment for the course ["Bayesian statistics"](https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=201300007&collegejaar=2020&taal=en) for which the Bayes sampler was written. 
-- A pdf file titled "Bayesian Assignment - JWG Simons". This latex file contains answers to the assignment in the "Bayesian Assignment" pdf file.   
+- A pdf file titled "Bayesian Assignment - JWG Simons". This latex file contains answers to the "Bayesian Assignment" pdf file.   
 - An annotated R file titled "Bayesian Assignment - JWG Simons - Code". This is an R-code file with which the reader can reproduce the results in the report.  
 - This README file, with instructions on which pieces of code to run to produce the results. 
 
