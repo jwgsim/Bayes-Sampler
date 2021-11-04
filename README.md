@@ -1,6 +1,6 @@
-README FILE - BAYESIAN ASSIGNMENT JWG SIMONS
+README FILE - BAYESIAN ASSIGNMENT REPOSITORY JWG SIMONS
 
-THIS ZIP FILE INCLUDES:
+THIS REPOSITORY INCLUDES:
 - A word file titled "Bayesian Assignment JWG Simons" with the report. 
 - An annotated R file titled "Bayesian Assignment JWG Simons - Code". This is the code with which the reader can reproduce the results in the report.  
 - This README FILE, with instructions on which pieces of code to run to produce the results. 
