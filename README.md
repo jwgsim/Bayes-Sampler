@@ -1,7 +1,7 @@
 A Bayes Sampler by JWG SIMONS
 
 This repository includes:
-- A latex file titled "Bayesian Assignment JWG Simons". This latex file includes .  
+- A latex file titled "Bayesian Assignment JWG Simons". This latex file presents answers to the includes .  
 - An annotated R file titled "Bayesian Assignment JWG Simons - Code". This is the code with which the reader can reproduce the results in the report.  
 - This README file, with instructions on which pieces of code to run to produce the results. 
 
